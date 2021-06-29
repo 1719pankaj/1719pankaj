@@ -10,10 +10,10 @@
 - 🔭 At that movement I am doing Btech (Bachelors of Technology)
 - 🌱 I’m currently learning Kotlin
 - 👯 open source contributor
-- 💬 Ask me about **Kotlin** **Java** **AndroidStudio** **Firebase**
-- 📫 How to reach me: Apna_Gmail_Add_kar_le@gmail.com
+- 💬 Ask me about **Kotlin** **Java** **Android** **Firebase** **.NET** **Arduino**
+- 📫 How to reach me: 1719pankaj@gmail.com
 - 😄 Pronouns: Pronouns: I, you, he, it, they, this
-- ⚡  Fun fact: I spend almost 5-6 hours Learning everyday
+- ⚡  Fun fact: The Yamaha YZR-M1 makes more power than a truck and has won 14 motogp titles (pssstt... I want one👉👈)
 
 <br>
 <hr>
@@ -31,10 +31,12 @@
 
 
 ## :computer: Technologies I Love
+* Android
+* Jetpack
 * Flutter
+* DotNET
 * Machine Learning
-* Data Science
-* Frontend and Backend Web Development
+* Everything Python (Django, tkInter, Numpy...)
 <br>
 <hr>
 
@@ -44,11 +46,11 @@
 
 <h3 align="Center">Connect with me:</h3>
 <p align="Center">
-<a href="https://linkedin.com/in/xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xyz" height="30" width="40" /></a>
-<a href="https://fb.com/xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xyz" height="30" width="40" /></a>
-<a href="https://instagram.com/xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xyz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xyz" height="30" width="40" /></a>
-<a href="https://discord.gg/xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xyz" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/pankaj-kr-roy-228644198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xyz" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tryht5hgyw6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xyz" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ceo_pcc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xyz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCanabR4cdk8h-Nq3t1a5esA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xyz" height="30" width="40" /></a>
+<a href="https://discord.gg/TheWiseNerd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xyz" height="30" width="40" /></a>
 </p>
 
   ![image](https://github.com/soriano-dev/soriano-dev/blob/master/dino.gif)
