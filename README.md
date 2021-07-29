@@ -13,7 +13,7 @@
 - 💬 Ask me about **Kotlin** **Java** **Android** **Firebase** **.NET** **Arduino**
 - 📫 How to reach me: 1719pankaj@gmail.com
 - 😄 Pronouns: Pronouns: I, you, he, it, they, this
-- ⚡  Fun fact: The Yamaha YZR-M1 makes more power than a truck and has won 14 motogp titles (pssstt... I want one👉👈)
+- ⚡  Fun fact: The Yamaha YZR-M1 makes more power than a truck and has won 105 motogp titles (pssstt... I want one👉👈)
 
 <br>
 <hr>
