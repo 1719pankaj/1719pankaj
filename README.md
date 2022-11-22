@@ -12,7 +12,7 @@
 - 👯 open source contributor
 - 💬 Ask me about **Kotlin** **Java** **Android** **Firebase** **.NET** **Arduino**
 - 📫 How to reach me: 1719pankaj@gmail.com
-- 😄 Pronouns: Pronouns: I, you, he, it, they, this
+- 😄 Pronouns: I, he, she, aligator... call me whatever man I'm cool
 - ⚡  Fun fact: The Yamaha YZR-M1 makes more power than a truck and has won 105 motogp titles (pssstt... I want one👉👈)
 
 <br>
