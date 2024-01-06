@@ -7,12 +7,12 @@
 
 <img align="right" alt="GIF" height="101px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 🔭 At that movement I am doing Btech (Bachelors of Technology)
-- 🌱 I’m currently learning Kotlin
+- 🔭 I work for a ginormous MNC, it's not that bad actually
+- 🌱 I’m currently learning Web+
 - 👯 open source contributor
-- 💬 Ask me about **Kotlin** **Java** **Android** **Firebase** **.NET** **Arduino**
+- 💬 Ask me about **Kotlin** **Java** **Android** **Firebase** **React/Next** **Arduino**
 - 📫 How to reach me: 1719pankaj@gmail.com
-- 😄 Pronouns: I, he, she, aligator... call me whatever man I'm cool
+- 😄 Pronouns: I, he, bro, aligator... whatever man I'm cool
 - ⚡  Fun fact: The Yamaha YZR-M1 makes more power than a truck and has won 105 motogp titles (pssstt... I want one👉👈)
 
 <br>
@@ -32,11 +32,12 @@
 
 ## :computer: Technologies I Love
 * Android
-* Jetpack
-* Flutter
-* DotNET
-* Machine Learning
-* Everything Python (Django, tkInter, Numpy...)
+* Firebase
+* Azure
+* React/Next.js
+* Github copilot is awesome
+* AI/ML
+* Python
 <br>
 <hr>
 
