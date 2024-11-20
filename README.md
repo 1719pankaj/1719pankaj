@@ -1,57 +1,55 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 
-
-<h3 align="center">I am a developer, Full-Stack enthusiast, Vue aficionado, Azure ninja, Microservice builder.</h3>
+<h3 align="center">Full-Stack Developer | Android Enthusiast | Backend Architect | AI Explorer</h3>
 </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1719pankaj&label=Profile%20views&color=0e75b6&style=flat" alt="1719pankaj" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=1719pankaj&label=Profile%20views&color=0e75b6&style=flat" alt="1719pankaj" /></p>
 
-<img align="right" alt="GIF" height="101px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 🔭 I work for a ginormous MNC, it's not that bad actually
-- 🌱 I’m currently learning Web+
-- 👯 open source contributor
-- 💬 Ask me about **Kotlin** **Java** **Android** **Firebase** **React/Next** **Arduino**
-- 📫 How to reach me: 1719pankaj@gmail.com
-- 😄 Pronouns: I, he, bro, aligator... whatever man I'm cool
-- ⚡  Fun fact: The Yamaha YZR-M1 makes more power than a truck and has won 105 motogp titles (pssstt... I want one👉👈)
+- 🔭 **Currently Working**: Building cool stuff at a multinational tech company  
+- 🌱 **Learning**: Exploring Bun.js, expanding my React ecosystem knowledge  
+- 👯 **Open Source**: Contributor to projects I care about  
+- 💬 **Ask Me About**:  
+  **Kotlin**, **React**, **Android Development**, **Ktor**, **Firebase**, **Generative AI**, **Arduino**  
+- 📫 **Contact Me**: 1719pankaj@gmail.com  
+- 😄 **Fun Fact**: I’m a speed junkie. The Yamaha YZR-M1 produces more horsepower than most trucks, and I absolutely want one someday!  
+- ⚡ **Hobbies**: Optimizing UI response times, exploring cloud infrastructure, and tinkering with microservices  
 
-<br>
-<hr>
+---
 
-<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
-                width="18" />My Github Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1719pankaj&show_icons=true&locale=en&layout=compact&hide_border=true" alt="1719pankaj" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1719pankaj&show_icons=true&locale=en&hide_border=true" alt="1719pankaj" /></p>
-
-<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
-<br>
-<hr>
-
-
-## :computer: Technologies I Love
-* Android
-* Firebase
-* Azure
-* React/Next.js
-* Github copilot is awesome
-* AI/ML
-* Python
-<br>
-<hr>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
-
-<h3 align="Center">Connect with me:</h3>
-<p align="Center">
-<a href="www.linkedin.com/in/pankaj-kr-roy-228644198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xyz" height="30" width="40" /></a>
-<a href="https://www.facebook.com/tryht5hgyw6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xyz" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ceo_pcc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xyz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCanabR4cdk8h-Nq3t1a5esA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xyz" height="30" width="40" /></a>
-<a href="https://discord.gg/TheWiseNerd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xyz" height="30" width="40" /></a>
+<h2 align="center">My GitHub Stats</h2>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1719pankaj&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=1719pankaj&show_icons=true&locale=en&hide_border=true" alt="GitHub Stats" />
 </p>
 
-  ![image](https://github.com/soriano-dev/soriano-dev/blob/master/dino.gif)
+<br><br><br><br>
+
+---
+
+<img align="right" alt="Coding GIF" width="300px" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
+## 🛠️ Tech I Work With
+- **Frontend**: React, Next.js, Tailwind CSS  
+- **Backend**: Ktor, Bun.js, Express.js  
+- **Mobile**: Android Native (Kotlin/Java), Firebase  
+- **Cloud**: Azure, Firebase, Heroku  
+- **AI/ML**: Generative AI, LLM Integration  
+- **Tools**: Git, Markdown, Arduino, Databricks, PySpark  
+
+---
+
+## 🌐 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/pankaj-kr-roy-228644198" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/tryht5hgyw6/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/ceo_pcc/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCanabR4cdk8h-Nq3t1a5esA" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://discord.gg/TheWiseNerd" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/soriano-dev/soriano-dev/blob/master/dino.gif" alt="Dino GIF" />
+</p>
