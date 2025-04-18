@@ -37,8 +37,8 @@ I'm a passionate **Full-Stack Developer** with **5+ years of experience** buildi
 ## 📊 My GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1719pankaj&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="Pankaj's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=1719pankaj&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1719pankaj&show_icons=true&locale=en&hide_border=true&theme=default" alt="Pankaj's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=1719pankaj&show_icons=true&locale=en&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
 </p>
 
 <p align="center">
